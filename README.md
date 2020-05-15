@@ -60,3 +60,5 @@ Petrisor Lacatus  (@stefan-lacatus)
 
 #  License
 [ISC License](LICENSE.MD)
+
+This Extension is provided as-is and without warranty or support. It is not part of the PTC product suite. Users are free to use, fork and modify them at their own risk. Community contributions are welcomed and can be accepted based on their content.
